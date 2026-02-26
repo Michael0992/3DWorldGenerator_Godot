@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "43GJd8SzA+I=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\milutz\\Documents\\world-one\\WorldOne.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\milutz\\.nuget\\packages\\godot.sourcegenerators\\4.5.0\\godot.sourcegenerators.4.5.0.nupkg.sha512",
+    "C:\\Users\\milutz\\.nuget\\packages\\godotsharp\\4.5.0\\godotsharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\milutz\\.nuget\\packages\\godotsharpeditor\\4.5.0\\godotsharpeditor.4.5.0.nupkg.sha512",
+    "C:\\Users\\milutz\\.nuget\\packages\\microsoft.data.sqlite\\10.0.3\\microsoft.data.sqlite.10.0.3.nupkg.sha512",
+    "C:\\Users\\milutz\\.nuget\\packages\\microsoft.data.sqlite.core\\10.0.3\\microsoft.data.sqlite.core.10.0.3.nupkg.sha512",
+    "C:\\Users\\milutz\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.11\\sqlitepclraw.bundle_e_sqlite3.2.1.11.nupkg.sha512",
+    "C:\\Users\\milutz\\.nuget\\packages\\sqlitepclraw.core\\2.1.11\\sqlitepclraw.core.2.1.11.nupkg.sha512",
+    "C:\\Users\\milutz\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.11\\sqlitepclraw.lib.e_sqlite3.2.1.11.nupkg.sha512",
+    "C:\\Users\\milutz\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.11\\sqlitepclraw.provider.e_sqlite3.2.1.11.nupkg.sha512",
+    "C:\\Users\\milutz\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
