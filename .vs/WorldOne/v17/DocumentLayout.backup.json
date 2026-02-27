@@ -42,8 +42,7 @@
               "RelativeToolTip": "Scripts\\Worldgen1.cs",
               "ViewState": "AgIAACoAAAAAAAAAAAA1wB0AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T19:13:03.055Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T19:13:03.055Z"
             },
             {
               "$type": "Document",
@@ -55,8 +54,7 @@
               "RelativeToolTip": "Scripts\\Worldgen2.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAYwC0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T18:56:26.786Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T18:56:26.786Z"
             },
             {
               "$type": "Document",
@@ -68,8 +66,7 @@
               "RelativeToolTip": "Scripts\\PlayerControll.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T18:53:23.804Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T18:53:23.804Z"
             },
             {
               "$type": "Document",
@@ -87,15 +84,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "WorldOne",
+              "Title": "WorldOne.csproj",
               "DocumentMoniker": "C:\\Users\\milutz\\Documents\\world-one\\WorldOne.csproj",
               "RelativeDocumentMoniker": "WorldOne.csproj",
               "ToolTip": "C:\\Users\\milutz\\Documents\\world-one\\WorldOne.csproj",
               "RelativeToolTip": "WorldOne.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-25T18:48:12.156Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T18:48:12.156Z"
             }
           ]
         }

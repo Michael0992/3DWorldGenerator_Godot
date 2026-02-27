@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\milutz\\Documents\\world-one\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1AE3BE19-DF24-4196-BEC8-0BD64DCBB4C8}|WorldOne.csproj|c:\\users\\milutz\\documents\\world-one\\scripts\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AE3BE19-DF24-4196-BEC8-0BD64DCBB4C8}|WorldOne.csproj|solutionrelative:scripts\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1AE3BE19-DF24-4196-BEC8-0BD64DCBB4C8}|WorldOne.csproj|c:\\users\\milutz\\documents\\world-one\\scripts\\worldgen2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1AE3BE19-DF24-4196-BEC8-0BD64DCBB4C8}|WorldOne.csproj|solutionrelative:scripts\\worldgen2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AE3BE19-DF24-4196-BEC8-0BD64DCBB4C8}|WorldOne.csproj|c:\\users\\milutz\\documents\\world-one\\scripts\\worldgen1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AE3BE19-DF24-4196-BEC8-0BD64DCBB4C8}|WorldOne.csproj|solutionrelative:scripts\\worldgen1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1AE3BE19-DF24-4196-BEC8-0BD64DCBB4C8}|WorldOne.csproj|c:\\users\\milutz\\documents\\world-one\\scripts\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AE3BE19-DF24-4196-BEC8-0BD64DCBB4C8}|WorldOne.csproj|solutionrelative:scripts\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1AE3BE19-DF24-4196-BEC8-0BD64DCBB4C8}|WorldOne.csproj|c:\\users\\milutz\\documents\\world-one\\scripts\\playercontroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1AE3BE19-DF24-4196-BEC8-0BD64DCBB4C8}|WorldOne.csproj|solutionrelative:scripts\\playercontroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE3BE19-DF24-4196-BEC8-0BD64DCBB4C8}|WorldOne.csproj|c:\\users\\milutz\\documents\\world-one\\scripts\\worldgen1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AE3BE19-DF24-4196-BEC8-0BD64DCBB4C8}|WorldOne.csproj|solutionrelative:scripts\\worldgen1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1AE3BE19-DF24-4196-BEC8-0BD64DCBB4C8}|WorldOne.csproj|c:\\users\\milutz\\documents\\world-one\\worldone.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -30,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Worldgen1.cs",
               "DocumentMoniker": "C:\\Users\\milutz\\Documents\\world-one\\Scripts\\Worldgen1.cs",
               "RelativeDocumentMoniker": "Scripts\\Worldgen1.cs",
@@ -46,37 +46,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Worldgen2.cs",
               "DocumentMoniker": "C:\\Users\\milutz\\Documents\\world-one\\Scripts\\Worldgen2.cs",
               "RelativeDocumentMoniker": "Scripts\\Worldgen2.cs",
               "ToolTip": "C:\\Users\\milutz\\Documents\\world-one\\Scripts\\Worldgen2.cs",
               "RelativeToolTip": "Scripts\\Worldgen2.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAYwC0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBIAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T18:56:26.786Z"
+              "WhenOpened": "2026-02-25T18:56:26.786Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "PlayerControll.cs",
               "DocumentMoniker": "C:\\Users\\milutz\\Documents\\world-one\\Scripts\\PlayerControll.cs",
               "RelativeDocumentMoniker": "Scripts\\PlayerControll.cs",
               "ToolTip": "C:\\Users\\milutz\\Documents\\world-one\\Scripts\\PlayerControll.cs",
               "RelativeToolTip": "Scripts\\PlayerControll.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T18:53:23.804Z"
+              "WhenOpened": "2026-02-25T18:53:23.804Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "DatabaseManager.cs",
               "DocumentMoniker": "C:\\Users\\milutz\\Documents\\world-one\\Scripts\\DatabaseManager.cs",
               "RelativeDocumentMoniker": "Scripts\\DatabaseManager.cs",
               "ToolTip": "C:\\Users\\milutz\\Documents\\world-one\\Scripts\\DatabaseManager.cs",
               "RelativeToolTip": "Scripts\\DatabaseManager.cs",
-              "ViewState": "AgIAAGEAAAAAAAAAAAAwwGsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-25T18:53:14.556Z",
               "EditorCaption": ""

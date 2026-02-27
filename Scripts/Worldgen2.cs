@@ -10,9 +10,12 @@ public partial class Worldgen2 : Node
 	[Export] public Texture2D ForestTexture;
 	[Export] public Texture2D RockTexture;
 
+	private int _worldSeed;
 
 	public override void _Ready()
 	{
+		_worldSeed = DatabaseManager.Instance.LoadOrCreateWorldSeed();
+		GD.Print("WorldSeed: " + _worldSeed);
 		SpawnChunks(Vector3.Zero);
 	}
 
