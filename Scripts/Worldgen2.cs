@@ -42,10 +42,19 @@ public partial class Worldgen2 : Node
 		chunk.GrassTexture = GrassTexture;
 		chunk.ForestTexture = ForestTexture;
 		chunk.RockTexture = RockTexture;
+		chunk.WorldSeed = _worldSeed;
 		chunk.Position = position;
 		AddChild(chunk);
 
-		DatabaseManager.Instance.SaveObject(chunk, "TerrainChunk");
+		if (!DatabaseManager.Instance.ChunkExistsAtPosition(position.X, position.Z))
+		{
+			DatabaseManager.Instance.SaveObject(chunk, "TerrainChunk");
+			GD.Print($"Chunk gespeichert: ({position.X}, {position.Z})");
+		}
+		else
+		{
+			GD.Print($"Chunk bereits vorhanden: ({position.X}, {position.Z})");
+		}
 	}
 
 	public partial class WorldGen : Node3D
