@@ -84,6 +84,20 @@ public partial class DatabaseManager : Node
         return guid; // zurückgeben damit das Objekt seine ID kennt
     }
 
+    public bool ChunkExistsAtPosition(float x, float z)
+    {
+        string sql = @"
+            SELECT COUNT(*) FROM SceneObjects
+            WHERE type = 'TerrainChunk'
+              AND ABS(pos_x - @x) < 0.01
+              AND ABS(pos_z - @z) < 0.01;";
+        using var cmd = new SqliteCommand(sql, _connection);
+        cmd.Parameters.AddWithValue("@x", x);
+        cmd.Parameters.AddWithValue("@z", z);
+        var result = cmd.ExecuteScalar();
+        return Convert.ToInt64(result) > 0;
+    }
+
     public override void _ExitTree()
     {
         _connection?.Close();
